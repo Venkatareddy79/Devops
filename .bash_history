@@ -35,3 +35,16 @@ eff
 
 
 
+git status
+git log
+git commit -m "Second commit
+"
+git status
+git add .bash_history 
+git status
+git commit -m "Third commit"
+git status
+git log
+git add remote origin https://github.com/Venkatareddy79/Devops.git
+git remote add origin https://github.com/Venkatareddy79/Devops.git
+git push -u origin master
